@@ -1,0 +1,1654 @@
+fileFormatVersion: 2
+guid: 7ea2f51c27a2dce429c44fefe78e819a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7306
+        width: 376
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5698e396c01284ab10ba38ada0739f
+      internalID: -452140053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 6937
+        width: 409
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f254cd0fd7feee4ca6e3d25a6efc786
+      internalID: 1931631335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_2
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 6937
+        width: 373
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003c491e3639fa64ead274fe4e4e3148
+      internalID: 1710566257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_3
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 6929
+        width: 388
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8330138da1ffec499bc5097b08b6724
+      internalID: 1756896671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_4
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 6937
+        width: 404
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba430df11b60e9438a7c0cd7c85c0a5
+      internalID: 1249008333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_5
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 6933
+        width: 397
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82470a34b522944683d01277f884a38
+      internalID: 1285052993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 6585
+        width: 397
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761da8a63df58ad42882e64bad2cdf98
+      internalID: 369261464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_7
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 6578
+        width: 387
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964c95b2d5b9226468554c8cac09589e
+      internalID: 1397231708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_8
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 6576
+        width: 409
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45645e051cfca5b44b15539429c6ae8b
+      internalID: -1949382813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_9
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 6572
+        width: 401
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef8f58097f0e1a458fde817d3ae982e
+      internalID: -1005656707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_10
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 6576
+        width: 403
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9fa6dca29efe541b11b150cef2fa1e
+      internalID: -1219465436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_11
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 6576
+        width: 401
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0eb894ea7e84704d8ba7c783bdea69c
+      internalID: 1110329076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 6227
+        width: 416
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7489d7a887d7c4582085de31352dca
+      internalID: -2072383037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_13
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 6227
+        width: 416
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95550f5086c06d4db1d01d2fdeb3285
+      internalID: -1296559214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_14
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 5867
+        width: 421
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcdc4a431ea97b48ab08c128e17b65c
+      internalID: -516791959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_15
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 5867
+        width: 413
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309320fbe2cf01d48be77ad89d7f433d
+      internalID: -1404343504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_16
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 5867
+        width: 421
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e866f6a2becd98744967954db6407568
+      internalID: -776954974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_17
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 5867
+        width: 439
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665e89c808ede924ca087f0569303b8f
+      internalID: 1272212644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_18
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 5871
+        width: 426
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71c9ec569ca538448b57fe02c9d159b
+      internalID: 1124459868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_19
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 5867
+        width: 426
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb63a2c22c014834a80c229e0cc2905e
+      internalID: 353993926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_20
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 5536
+        width: 430
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93fc0bec86f6664097d8de82b86dd12
+      internalID: -1646748200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_21
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 5534
+        width: 435
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1799b81def2ac145999c81b8d16bf7c
+      internalID: -2049053770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_22
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 5534
+        width: 434
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6b8a88236b2c34cbfb4b353b05ccac
+      internalID: 1130259732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_23
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 5533
+        width: 430
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119b76313bc78874480f15092d2ef5e5
+      internalID: -2094675784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 5184
+        width: 427
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80832bd4cf672b141a8649902feeb829
+      internalID: 1310632386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_25
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 5180
+        width: 423
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1fabc5bf1187b48917a947427bac63
+      internalID: -1784899260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_26
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 5180
+        width: 423
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2342710c81b6fe4394ca1a5aad396e3
+      internalID: -1649780882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_27
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 5180
+        width: 423
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769bd459f4eddde4a8a23827eb8feea9
+      internalID: -988043352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_28
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 5182
+        width: 425
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8b209196a6f2f4f88de665813f09c1
+      internalID: 655658026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_29
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 5184
+        width: 433
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a15254a1e7c8d4f91428167a758415
+      internalID: -1547805483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4799
+        width: 404
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cff5eaefb3e05941918aa39a80d309b
+      internalID: -801517574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_31
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 4803
+        width: 400
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d24143e841ded64a88700245ef5b8c4
+      internalID: -1137228276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_32
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 3495
+        width: 524
+        height: 429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4b576177c0c2842a583ebd0dc3a885
+      internalID: 51059256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_33
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 3488
+        width: 476
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16e88870c836554283b210d3e3be681
+      internalID: 602695621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_34
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 3472
+        width: 436
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e604862704dacd4382eebd71679f7a2
+      internalID: 556387398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_35
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 3504
+        width: 501
+        height: 371
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569bd89a2e09de6459c8773400baa69c
+      internalID: 2120676298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_36
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 2911
+        width: 572
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5098f66460fd3b4fbc2c1c6f863b8f2
+      internalID: -1197826751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_37
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 2931
+        width: 517
+        height: 410
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4334dabaaf2be43a68cb10872a97e1
+      internalID: 1179714093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_38
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 2918
+        width: 530
+        height: 507
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8bd56b4e0cc324bbd733900b3f177b
+      internalID: 1495728262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_39
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 2352
+        width: 498
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18e5219b626ca54094123887735ac19
+      internalID: 826553010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_40
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 2349
+        width: 524
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114bbb48ead07e04a8f006db8bcfcf5e
+      internalID: -265491327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_41
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1829
+        width: 508
+        height: 462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0764aebed378b4daeee63204ab42dd
+      internalID: 648976030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_42
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1783
+        width: 651
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4160508f719297f4b9f87c50bb79152d
+      internalID: 698049607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_43
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1429
+        width: 423
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d599b94b15296ef47986cd07c1ef3ad7
+      internalID: 1644553167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_44
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1428
+        width: 395
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80381dc83260b7b4e97a5e2721832e32
+      internalID: -735943153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_45
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1428
+        width: 393
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fa2b6feba4c2a49a48f943fa705e34
+      internalID: 1280849847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_46
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1074
+        width: 385
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7064d214492606a4e8214534c7a12115
+      internalID: -402710443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_47
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1086
+        width: 398
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f02ef4ebe773e64fbb0320ee8c76848
+      internalID: 262761019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_48
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1084
+        width: 408
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44d4ae7c0c20a64b90c8fdb893c3343
+      internalID: -1727990515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_49
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1096
+        width: 380
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1bfb74736463743a9675b23bbf49ad
+      internalID: -409770055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_50
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 710
+        width: 392
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f851923a4b86904abb09293e60bee04
+      internalID: -481753115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_51
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 702
+        width: 402
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb02094ad2f044c44964c028a5f767c2
+      internalID: 1990566320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_52
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 702
+        width: 423
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d9e51c751658545a0108df5a81f48a
+      internalID: 240122146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_53
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 706
+        width: 386
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4ea1828e5bb03498c653d78f7b192a
+      internalID: -1486413437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_54
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 710
+        width: 409
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02dc75ec56dca394f830f82e6ef6b2cb
+      internalID: 1049872208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_55
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 713
+        width: 427
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd4b04db0c7ba646864a43f314875d0
+      internalID: 1120562782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_56
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 330
+        width: 347
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301590a00592d2b46bb7481385541d46
+      internalID: 1914885185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_57
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 351
+        width: 342
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052e2c63f0a940c4fa1be15198eadb6c
+      internalID: -1832209915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_58
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 371
+        width: 347
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3573d6602833f494792d73abfffe1fad
+      internalID: -255314287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_59
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 5
+        width: 302
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4787639cf89ff9f40bf6e1977f07d8c2
+      internalID: -1090280540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_60
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 11
+        width: 308
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568fcedde62a52c40b9facb5d04330cb
+      internalID: -1419233382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_61
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 5
+        width: 307
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4236f78b6f34b1543af42e041b2aab3b
+      internalID: 1987093108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_62
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 11
+        width: 309
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14df66da6e6bd934795d4328285bd98e
+      internalID: -1163083942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_63
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 15
+        width: 285
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8a74ab766915f4bbc35f5b4662750b
+      internalID: -1000352817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_64
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 19
+        width: 297
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0186091a9a7ec42bf68dcce951943b
+      internalID: 1587017914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_65
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 7
+        width: 309
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7000ad3f72bfbb4bb60d91abdf8e730
+      internalID: -519115843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_66
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 11
+        width: 302
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16218e5da17fd743ab5c51c6224e5f3
+      internalID: -1709147722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_67
+      rect:
+        serializedVersion: 2
+        x: 2677
+        y: 7
+        width: 293
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9cdbba91042784bb9ba1bc18468b01
+      internalID: -1922747684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Hollow Knight - Husk Guard_68
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 2928
+        width: 520
+        height: 526
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7c7489604dd15499fcd9e7394bb90b
+      internalID: -127061247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Hollow Knight - Husk Guard_10: -1219465436
+      PC Computer - Hollow Knight - Husk Guard_2: 1710566257
+      PC Computer - Hollow Knight - Husk Guard_16: -776954974
+      PC Computer - Hollow Knight - Husk Guard_42: 698049607
+      PC Computer - Hollow Knight - Husk Guard_43: 1644553167
+      PC Computer - Hollow Knight - Husk Guard_34: 556387398
+      END IDLE Guar: 61778031
+      PC Computer - Hollow Knight - Husk Guard_55: 1120562782
+      PC Computer - Hollow Knight - Husk Guard_49: -409770055
+      PC Computer - Hollow Knight - Husk Guard_9: -1005656707
+      PC Computer - Hollow Knight - Husk Guard_1: 1931631335
+      PC Computer - Hollow Knight - Husk Guard_45: 1280849847
+      PC Computer - Hollow Knight - Husk Guard_59: -1090280540
+      PC Computer - Hollow Knight - Husk Guard_0: -452140053
+      PC Computer - Hollow Knight - Husk Guard_66: -1709147722
+      PC Computer - Hollow Knight - Husk Guard_23: -2094675784
+      PC Computer - Hollow Knight - Husk Guard_26: -1649780882
+      PC Computer - Hollow Knight - Husk Guard_24: 1310632386
+      PC Computer - Hollow Knight - Husk Guard_67: -1922747684
+      PC Computer - Hollow Knight - Husk Guard_64: 1587017914
+      PC Computer - Hollow Knight - Husk Guard_53: -1486413437
+      PC Computer - Hollow Knight - Husk Guard_28: 655658026
+      PC Computer - Hollow Knight - Husk Guard_63: -1000352817
+      PC Computer - Hollow Knight - Husk Guard_37: 1179714093
+      PC Computer - Hollow Knight - Husk Guard_40: -265491327
+      PC Computer - Hollow Knight - Husk Guard_11: 1110329076
+      PC Computer - Hollow Knight - Husk Guard_4: 1249008333
+      PC Computer - Hollow Knight - Husk Guard_58: -255314287
+      PC Computer - Hollow Knight - Husk Guard_65: -519115843
+      PC Computer - Hollow Knight - Husk Guard_20: -1646748200
+      PC Computer - Hollow Knight - Husk Guard_5: 1285052993
+      PC Computer - Hollow Knight - Husk Guard_48: -1727990515
+      PC Computer - Hollow Knight - Husk Guard_35: 2120676298
+      PC Computer - Hollow Knight - Husk Guard_22: 1130259732
+      PC Computer - Hollow Knight - Husk Guard_3: 1756896671
+      PC Computer - Hollow Knight - Husk Guard_7: 1397231708
+      PC Computer - Hollow Knight - Husk Guard_60: -1419233382
+      PC Computer - Hollow Knight - Husk Guard_17: 1272212644
+      PC Computer - Hollow Knight - Husk Guard_18: 1124459868
+      PC Computer - Hollow Knight - Husk Guard_52: 240122146
+      PC Computer - Hollow Knight - Husk Guard_61: 1987093108
+      PC Computer - Hollow Knight - Husk Guard_33: 602695621
+      PC Computer - Hollow Knight - Husk Guard_31: -1137228276
+      PC Computer - Hollow Knight - Husk Guard_54: 1049872208
+      PC Computer - Hollow Knight - Husk Guard_62: -1163083942
+      PC Computer - Hollow Knight - Husk Guard_6: 369261464
+      PC Computer - Hollow Knight - Husk Guard_19: 353993926
+      PC Computer - Hollow Knight - Husk Guard_51: 1990566320
+      PC Computer - Hollow Knight - Husk Guard_36: -1197826751
+      PC Computer - Hollow Knight - Husk Guard_50: -481753115
+      PC Computer - Hollow Knight - Husk Guard_46: -402710443
+      PC Computer - Hollow Knight - Husk Guard_57: -1832209915
+      PC Computer - Hollow Knight - Husk Guard_27: -988043352
+      PC Computer - Hollow Knight - Husk Guard_29: -1547805483
+      PC Computer - Hollow Knight - Husk Guard_38: 1495728262
+      PC Computer - Hollow Knight - Husk Guard_56: 1914885185
+      PC Computer - Hollow Knight - Husk Guard_12: -2072383037
+      PC Computer - Hollow Knight - Husk Guard_32: 51059256
+      PC Computer - Hollow Knight - Husk Guard_47: 262761019
+      PC Computer - Hollow Knight - Husk Guard_13: -1296559214
+      PC Computer - Hollow Knight - Husk Guard_25: -1784899260
+      PC Computer - Hollow Knight - Husk Guard_8: -1949382813
+      PC Computer - Hollow Knight - Husk Guard_30: -801517574
+      PC Computer - Hollow Knight - Husk Guard_14: -516791959
+      PC Computer - Hollow Knight - Husk Guard_21: -2049053770
+      PC Computer - Hollow Knight - Husk Guard_68: -127061247
+      PC Computer - Hollow Knight - Husk Guard_41: 648976030
+      PC Computer - Hollow Knight - Husk Guard_39: 826553010
+      PC Computer - Hollow Knight - Husk Guard_44: -735943153
+      PC Computer - Hollow Knight - Husk Guard_15: -1404343504
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
